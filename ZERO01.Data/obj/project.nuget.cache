@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fMx/vWOBiJ3CFpqFHE+PG7cVrncy83cBZD9YkJH1B2pTWt78bBA+jsW1pujNWc5grk5qxDy5AQC53+MdzUAa6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sushiba\\Desktop\\Source Code\\ZERO01.Data\\ZERO01.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sushiba\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\sushiba\\.nuget\\packages\\materialdesigncolors\\2.0.6\\materialdesigncolors.2.0.6.nupkg.sha512",
+    "C:\\Users\\sushiba\\.nuget\\packages\\materialdesignthemes\\4.5.0\\materialdesignthemes.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

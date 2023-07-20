@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kekfQoNeh1MQvdJ3S1LmTpSQU5rfFdiYw/VfKy4WRu9U/RsfxgNZl1C9x9ASldF3ZTqTwrSITtE99mmtAkbLGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sushiba\\Desktop\\Source Code\\ZERO01.Core\\ZERO01.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sushiba\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\sushiba\\.nuget\\packages\\documentformat.openxml\\2.13.0\\documentformat.openxml.2.13.0.nupkg.sha512",
+    "C:\\Users\\sushiba\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\sushiba\\.nuget\\packages\\materialdesigncolors\\2.0.6\\materialdesigncolors.2.0.6.nupkg.sha512",
+    "C:\\Users\\sushiba\\.nuget\\packages\\materialdesignthemes\\4.5.0\\materialdesignthemes.4.5.0.nupkg.sha512",
+    "C:\\Users\\sushiba\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1000\\microsoft.office.interop.excel.15.0.4795.1000.nupkg.sha512"
+  ],
+  "logs": []
+}
