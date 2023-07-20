@@ -17,17 +17,3 @@ Step 1: Edit connection string in ZERO01's App.config file into your connection 
 Step 2: Open Package Manager Console in Visual Studio and choose ZERO01.Data as default project.<br />
 Step 3: Run command **Update-Database** to create database and run data seeding.<br />
 Step 4: Run program
-
-
-## Author
-18521597 - Lê Anh Tuấn<br />
-18521616 - Lê Xuân Tùng<br />
-18521585 - Nguyễn Xuân Tú<br />
-18521604 - Nguyễn Thanh Tuấn<br />
-18520075 - Trần Duy Khánh<br />
-18521677 - Dương Thành Vương<br />
-
-"# wpf" 
-"# dbt_demo" 
-"# wpf" 
-"# wpf" 
